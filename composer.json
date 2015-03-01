@@ -1,0 +1,15 @@
+{
+  "name": "verheesj/linguistic-php",
+  "description": "Linguistic PHP",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jonathan Verhees",
+      "email": "jonathan@verhe.es"
+    }
+  ],
+  "psr-4": {
+    "verheesJ\\": "src/verheesJ/"
+  }
+}
